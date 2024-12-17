@@ -26,8 +26,6 @@
   <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>
 </div>
-</div>
-<hr>
 <h2>📎 Solved.ac (Baekjoon) 📎</h3>
 <div>
   <a href="https://solved.ac/profile/97crushed_taro"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=97crushed_taro"/></a>
